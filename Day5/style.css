@@ -1,0 +1,18 @@
+h1{
+    color: greenyellow;
+
+}
+div{
+    border: 1px solid black;
+
+}
+
+head{
+    background-color: darkorchid;
+    padding: 2rem;
+
+}
+nav{
+    background-color: lightblue;
+    padding: 2rem;
+}
